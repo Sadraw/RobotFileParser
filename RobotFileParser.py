@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from urllib.robotparser import RobotFileParser
 from termcolor import colored
 
