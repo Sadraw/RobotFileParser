@@ -7,7 +7,6 @@ while True:
 
     if url == 'q':
         print(colored("Bye Bye!", "yellow"))
-        print(colored("Visit my GitHub page at: https://github.com/Sadraw", "blue"))
         break
 
     url = url if url.startswith("https://") else "https://" + url
