@@ -6,4 +6,4 @@ Automated Python Script to Check if we are Allowed to Scrape a Particular Websit
 ## You might need to install a few libraries for the script to work 
 
 
-![ROBOTFILEPARSER]()
+![RobotFIleParser](https://github.com/Sadraw/RobotFileParser/blob/main/images/RobotFileParser.png)
