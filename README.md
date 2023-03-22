@@ -5,4 +5,4 @@ Automated Python Script to Check if we are Allowed to Scrape a Particular Websit
 
 ## You might need to install a few libraries for the script to work 
 
-![The Whole Project](https://github.com/Sadraw/Terrarium-Project/blob/main/images/Terrarium.png)
+![RobotFIleParser](https://github.com/Sadraw/RobotFileParser/blob/main/images/RobotFileParser.png)
